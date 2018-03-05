@@ -51,8 +51,8 @@ local platform
 
 function entertain_initialize {
 	get_mac
-	remote_ip="192.168.6.206"
-	remote_mac="AC:6F:BB:29:8D:E3"
+	remote_ip="192.168.0.1"
+	remote_mac="AA:BB:CC:DD:EE:FF"
 	remote_port="49152"
 	local_ip="$ip_addr"
 	local_port="49154"
