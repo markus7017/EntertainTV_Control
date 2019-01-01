@@ -1,4 +1,10 @@
 # EntertainTV_Control
+
+<hr>
+If you are looking for an openHAB integration of the Entertain/MagentaTV Media Receiver you should check the native TelekomTV binding: https://github.com/markus7017/org.openhab.binding.telekomtv
+<hr>
+<p>
+  
 Small script to control the Telekom Entertain Receiver with openHAB
 
 Usage: sudo ./entertain_control.sh on | off | status | presskey <k> [log]
